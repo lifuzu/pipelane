@@ -11,7 +11,7 @@ with open('pipelane/__init__.py', 'r') as f:
 with open('README.md', 'r') as f:
   long_description = f.read()
 
-requirments = []
+requirments = [ osascript ]
 
 setup(
   name = 'pipelane',
