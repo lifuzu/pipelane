@@ -1,0 +1,10 @@
+build/
+dist/
+*.egg-info/
+
+*.log
+*.pyc
+.cache/
+.coverage
+.idea/
+.vscode/
