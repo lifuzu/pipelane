@@ -2,6 +2,16 @@
 
 Pipelane is a client side of continuous integration/build system on top of REST api. Pipelane will integrate existing systems as many as possible, such as JIRA, Jenkins, etc.
 
+### How to install
+```
+$ pip install pipelane
+```
+
+### Then use it with appending shell commands
+```
+$ pipelane echo 'Hello World!'
+```
+
 
 ### Actions
 
